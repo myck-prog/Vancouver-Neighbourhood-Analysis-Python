@@ -107,3 +107,5 @@ Here are some screenshots of the map with different layers selected:
 ![](README_images/05_2_food_selection.png)
 
 ![](README_images/05_3_more_selection.png)
+
+made possible with collaboration of James B. and Jonghyeok K. 
